@@ -1,5 +1,5 @@
 <h1 style="font-size: 30px; text-align: center;">Contact Page</h1>
-<p style="text-align: center;">        
+<p style="align: center;">        
     <img src="https://raw.githubusercontent.com/KissmeBro/KissmeBro/refs/heads/main/profile.png" alt="Profile" style="width: 150px; height: auto; border-radius: 50%;"/>        
 </p>
 <p style="text-align: center;">Get in touch with me through the following platforms.</p>
