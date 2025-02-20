@@ -9,8 +9,8 @@
 <h2 style="text-align: center;">Contact Methods</h2>
 <div style="text-align: center;">
     <p style="display: inline-block; margin: 10px; float: left;">
-        <a href="https://www.instagram.com/kissme.log" target="_blank">
-            <img src="https://fv5-3.files.fm/thumb_show.php?i=eewdpv4vsc&view&v=1&PHPSESSID=9c89eab3565a4af554e0c94aa02dc84c2bb8266b" alt="Instagram" style="width: 50px; height: auto; border-radius: 50%;"/>
+        <a href="https://fv5-5.files.fm/thumb_show.php?i=pb8y8xuuh9&view&v=1&PHPSESSID=9c89eab3565a4af554e0c94aa02dc84c2bb8266b" target="_blank">
+            <img src="https://fv5-5.files.fm/thumb_show.php?i=pb8y8xuuh9&view&v=1&PHPSESSID=9c89eab3565a4af554e0c94aa02dc84c2bb8266b" alt="Instagram" style="width: 50px; height: auto; border-radius: 50%;"/>
         </a>
     </p>
     <p style="display: inline-block; margin: 10px; float: left;">
