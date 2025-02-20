@@ -20,7 +20,7 @@
     </p>
     <p style="display: inline-block; margin: 10px;">
         <a href="https://t.me/silentAw" target="_blank">
-            <img src="https://fv5-5.files.fm/thumb_show.php?i=ngkbszmtpj&view&v=1&PHPSESSID=9c89eab3565a4af554e0c94aa02dc84c2bb8266b" alt="Telegram" style="width: 50px; height: auto; border-radius: 50%;"/>
+            <img src="https://uploadkon.ir/uploads/ed8320_25telegram.png" alt="Telegram" style="width: 50px; height: auto; border-radius: 50%;"/>
         </a>
     </p>
 </div>
